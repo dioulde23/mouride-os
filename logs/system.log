@@ -1,0 +1,12 @@
+System started
+User logged in
+Unauthorized access attempt detected
+Disk error occurred
+All good
+Critical process failed
+
+INFO: Tout fonctionne bien
+WARNING: CPU usage élevée
+ERROR: Processus XYZ échoué
+
+2025-05-10 17:30:23 - AutoUpdater - ERROR - [2025-05-10 17:30:23.434605] Failed to fetch release info: HTTP 404
